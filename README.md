@@ -59,8 +59,9 @@ This project implements a **from-scratch backtesting engine in Python** to evalu
 
 ## 🚀 Getting Started  
 
-### 1. Clone repo & install dependencies  
+### 1. Clone repo & run backtesting engine(update your strategy)  
 ```bash
-git clone https://github.com/yourusername/backtesting-engine.git
+git clone https://github.com/Dixit-529/BackeTesting_Engine_For_Quantitative_Strategy.git
 cd backtesting-engine
-pip install -r requirements.txt
+python backtest.py
+
